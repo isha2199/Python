@@ -1,4 +1,5 @@
 weather = input("Enter today's weather (sunny, rainy, cloudy): ")
+homework = input("Have you completed your homework? (yes/no): ")
 
 # Topic 2 - AND operator
 if weather == "sunny" and homework == "yes":
