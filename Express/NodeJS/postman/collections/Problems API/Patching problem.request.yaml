@@ -1,0 +1,10 @@
+$kind: http-request
+url: http://localhost:3000/api/problems/1
+method: PATCH
+body:
+  type: json
+  content: |-
+    {
+        "title": "Some desc"
+    }
+order: 4496838361945490
